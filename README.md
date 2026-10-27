@@ -51,4 +51,4 @@ Go to **[curltact.com](https://curltact.com)**, sign in with GitHub, GitLab or S
 $ curl curltact.com/your-name
 ```
 
-Questions, commissions, or a name you want to argue about: **contact@curltact.com**
+Questions, comments, commissions: **contact@curltact.com**
