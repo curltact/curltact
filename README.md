@@ -45,7 +45,7 @@ The same engraving, struck onto paper: 3.5 x 2 inches, 300 gsm uncoated, in sets
 
 ## Claim your name
 
-Go to **[curltact.com](https://curltact.com)**, sign in with GitHub, GitLab or Steam, and pick a name. There is no password to invent. You are live in about a minute, and then your card is one command away from everybody you ever meet again.
+Go to **[curltact.com](https://curltact.com)**, sign in with GitHub or GitLab, and pick a name. There is no password to invent. You are live in about a minute, and then your card is one command away from everybody you ever meet again.
 
 ```console
 $ curl curltact.com/your-name
